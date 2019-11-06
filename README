@@ -1,0 +1,2 @@
+Primality test for numbers of the form: N=2*6^n +/- 1.
+See https://math.stackexchange.com/q/3385146/15660 and https://math.stackexchange.com/q/3409440/15660 .  
